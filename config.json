@@ -124,5 +124,5 @@
     },
     "appVersion": "0.0.1",
     "buildNumber": 9,
-    "runtimeUrl": "https://sakacloud.link"
+    "runtimeUrl": "http://127.0.0.1:8080"
 }
